@@ -1,7 +1,7 @@
-##🔍 Project Title:
-BlinkIT Grocery Sales Analysis Dashboard Using Excel, SQL & Power BI
+🔍 Project Title:
+##BlinkIT Grocery Sales Analysis Dashboard Using Excel, SQL & Power BI
 ________________________________________
-##Project Overview:
+Project Overview:
 This project focuses on uncovering key business insights from BlinkIT’s grocery retail data using a combination of Excel, SQL, and Power BI. The objective was to analyze sales performance, customer behavior, and outlet efficiency to support data-driven decision-making.
 ________________________________________
 ⚙️ Tools & Techniques Used:
