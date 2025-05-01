@@ -1,4 +1,4 @@
-🔍 Project Title:
+#🔍 Project Title:
 BlinkIT Grocery Sales Analysis Dashboard Using Excel, SQL & Power BI
 ________________________________________
 📝 Project Overview:
